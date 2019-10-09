@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: net.dsys.commons:commons:master">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/dsys/commons/commons/master/commons-master.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/net/dsys/commons/commons/master/commons-master-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/dsys/commons/commons/master/commons-master-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
